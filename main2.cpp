@@ -16,7 +16,8 @@ int main(){
     std::cout<<(a > b)<<std::endl;
     std::cout<<(a >= b)<<std::endl;
     std::cout<<(a != b)<<std::endl;
-
+    std::cout<<(a == b)<<std::endl;
+    
     //std::cout<<"A = "<<a<<" e B = "<<b<<std::endl;
     
 
