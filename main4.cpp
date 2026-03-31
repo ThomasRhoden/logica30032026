@@ -7,5 +7,11 @@ int main(){
 
     std::cout<<(a % b)<<std::endl;
 
+
+
+    //PS D:\repos\logica30032026> g++ main4.cpp -o Main44
+    //PS D:\repos\logica30032026> ./main44
+    //Função de terminal para Compilar e Executar o sistema
+
     return 0;
 }
