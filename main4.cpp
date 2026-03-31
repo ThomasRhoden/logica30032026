@@ -13,5 +13,8 @@ int main(){
     //PS D:\repos\logica30032026> ./main44
     //Função de terminal para Compilar e Executar o sistema
 
+    // % = módulos (resultado que sobra da divisão
+    
+)
     return 0;
 }
